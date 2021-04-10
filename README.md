@@ -13,6 +13,9 @@
 4. 네이버 맞춤법 검사 시도 (중간에 차단됨 : 8091/84123) - 0.5초 delay줘도 대략 하루가 소요됨;;
 5. 다른 사이트에서 맞춤법 검사 시도 중 (delay 사용으로 처리에 3일 이상 예상 됨)
 6. 평점이 7.0 이상인 경우 긍정 리뷰로 그 이하인 경우 부정 리뷰로 레이블링
+7. EDA를 통한 data parameter 설정
+
+![WordCloud](https://github.com/integralstar/Hotel_Review_Sentiment_Analysis_Bert/blob/main/wordcloud_hotel.png) 
 
 #### BERT를 이용하여 Fine-Tuning
 accuracy: 0.9213
